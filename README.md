@@ -38,4 +38,4 @@ code --install-extension ./vsix/foam.foam-vscode-0.44.6.vsix
 ## 추천 확장
 
 - 목록과 선정 이유: [docs/extensions-recommended.md](docs/extensions-recommended.md)
-- 설치한 확장 사용법: [docs/extensions-usage.md](docs/extensions-usage.md)
+- 설치된 27개 확장 전체 사용법: [docs/extensions-usage.md](docs/extensions-usage.md)
